@@ -1,5 +1,18 @@
-tree-sitter-lua (0.4.0-1) UNRELEASED; urgency=medium
+tree-sitter-lua (0.4.0-1) unstable; urgency=medium
 
-  * Initial release.
+  [ Dimitry Ishenko ]
+  * Add Debian packaging
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 01:18:00 -0400
+  [ Christian Clason ]
+  * release v0.4.0
+  * feat(grammar): support luajit binary number
+  * ci(release): add workflow
+  * ci(test): update workflow
+
+  [ ObserverOfTime ]
+  * feat: update bindings
+
+  [ Christian Clason ]
+  * bump
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 10:14:58 -0400
