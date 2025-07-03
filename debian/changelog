@@ -1,3 +1,9 @@
+tree-sitter-lua (0.4.0-2) unstable; urgency=medium
+
+  * d/copyright: simplify
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 02 Jul 2025 23:30:05 -0400
+
 tree-sitter-lua (0.4.0-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
